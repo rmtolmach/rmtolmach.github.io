@@ -1,0 +1,63 @@
+
+body {
+	background: url("IMG_7242.jpg") repeat fixed center center / cover  rgba(0, 0, 0, 0);
+	margin: 0px;
+}
+
+
+.container {
+	background: rgba(108, 180, 107, 0.92);
+	border-radius: 0px 8px 8px 0px;
+    width: 440px;
+    margin-top: 40px;
+    padding: 5px 0px 5px 10px; 
+    opacity: 0.9;
+   
+    
+}
+
+h1 {
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 55px;
+    line-height: 40px;
+
+}
+
+h3 {
+	background: none repeat scroll 0 0 #fb4d1c;
+    border-radius: 0px 0px 0px 5px;
+    padding: 10px;
+    color: white;
+    font-family: 'Merriweather';
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-size: 21px; 
+    font-weight: 700;
+    
+
+}
+
+p {
+	font-family: 'Merriweather', serif;
+	font-size: 19px;
+	line-height: 24px;
+	font-weight: 400;
+	padding: 6px;
+	
+}
+
+a:link {
+	color: #ed622b;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #fb4d1c;
+	text-decoration: none;
+}
+	
+
+.social {
+	font-size: 15px;
+}
